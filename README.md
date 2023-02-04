@@ -1,12 +1,10 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/achrafkhabar/blogosss/master/blogosss-logo.png" alt="Blogosss Logo" width="150"/>
-</p>
 <h1 align="center">Blogosss</h1>
 
-<a href="#">
-    <img src="https://img.shields.io/badge/built%20with-C%23-blue.svg" alt="built with C#">
+<p align="center">
+  <a href="#">
+    <img src="https://img.shields.io/badge/Made%20by-Achraf%20Khabar-white.svg" alt="Made by Achraf Khabar">
   </a>
-
+</p>
 
 About Blogosss
 --------------
