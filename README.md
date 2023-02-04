@@ -2,14 +2,14 @@
 
 <p align="center">
   <a href="#">
-    <img src="https://img.shields.io/badge/Made%20by-Achraf%20Khabar-white.svg" alt="Made by Achraf Khabar">
+    <img src="https://img.shields.io/badge/Made%20by-Achraf%20Khabar-blue.svg" alt="Made by Achraf Khabar">
   </a>
 </p>
 
 About Blogosss
 --------------
 
-Blogosss is a web-based application for creating and sharing blogs, developed by Achraf Khabar using C#, ASP.NET, Entity Framework, HTML, CSS, and JavaScript. The application follows the Model-View-Controller (MVC) design pattern and provides users with an easy way to create, view, and give feedback on blogs.
+Blogosss is a web-based application for creating and sharing blogs, developed by [Achraf Khabar](https://github.com/achrafkhabar) using C#, ASP.NET, Entity Framework, HTML, CSS, and JavaScript. The application follows the Model-View-Controller (MVC) design pattern and provides users with an easy way to create, view, and give feedback on blogs.
 
 Features
 --------
@@ -50,3 +50,5 @@ Contributors
 -   [Achraf Khabar](https://github.com/achrafkhabar)
 
 <p align="center"> <i>Join the blogging community with Blogosss!</i> </p>
+
+Feel free to add more details or customize the README file as needed.
