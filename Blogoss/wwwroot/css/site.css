@@ -15,4 +15,13 @@ html {
 
 body {
   margin-bottom: 60px;
+  background-color:aliceblue;
+}
+
+.btn-space {
+    margin-right: 10px;
+}
+
+.btn-light- {
+    color: chocolate
 }
