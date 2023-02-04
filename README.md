@@ -8,7 +8,7 @@
 
 <p align="center">
     <a href="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png"> <img src="" alt="C#" height="70"></a>
-    <a href="https://nodejs.org/en/"> <img src="[https://www.pngmart.com/files/7/PHP-PNG-File.png](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1024px-.NET_Core_Logo.svg.png)" alt="ASP.NET" height="70"></a>
+    <a href="https://nodejs.org/en/"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1024px-.NET_Core_Logo.svg.png" alt="ASP.NET" height="70"></a>
     <a href="https://nodejs.org/en/"> <img src="https://www.pngmart.com/files/7/PHP-PNG-File.png" alt="C#" height="70"></a>  
 </p>
 
