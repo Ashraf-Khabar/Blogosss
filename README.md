@@ -1,3 +1,16 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/achrafkhabar/blogosss/master/blogosss-logo.png" alt="Blogosss Logo" width="150"/>
+</p>
+<h1 align="center">Blogosss</h1>
+<p align="center">
+  <a href="#">
+    <img src="https://img.shields.io/badge/built%20with-C%23-blue.svg" alt="built with C#">
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/platform-ASP.NET-lightgrey.svg" alt="platform ASP.NET">
+  </a>
+</p>
+
 About Blogosss
 --------------
 
