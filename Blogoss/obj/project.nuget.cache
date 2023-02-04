@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2eIDjh3QSjPBv+z87GGNbEZcZzTF/1+/78FqFbHBaI3fJ5tzq3kKmyQ9uAEReXX0eAHdqHzTZ1eX4rShFpdFFw==",
+  "dgSpecHash": "Xnu7yrUp7XRdvMMkyHmKxJq+ubE0rOpJo898A82JK3hJoSQdiWj/23IbhxYf5FNbfB943YoNK5/651FcvyUDrA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ashraf\\Documents\\GitHub\\Blogosss\\Blogoss\\Blogoss\\Blogoss.csproj",
+  "projectFilePath": "C:\\Users\\ashraf\\Documents\\GitHub\\Blogosss\\Blogoss\\Blogoss.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ashraf\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\ashraf\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",

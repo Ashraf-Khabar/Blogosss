@@ -19,10 +19,29 @@ namespace Blogoss.Controllers
             _context = context;
         }
 
+
+
         // GET: Blogs
         public async Task<IActionResult> Index()
         {
               return View(await _context.Blog.ToListAsync());
+        }
+
+        //GET : Blogs/ShowSearchForm
+
+        public async Task<IActionResult> ShowSearchForm()
+        {
+            return View();
+        }
+
+        //POST : Blogs/ShowSearchResult
+
+
+        public async Task<IActionResult> ShowSearchResults(String SearchPhrase)
+        {
+              return View("Index", await _context.Blog.Where( i => i.Description.Contains
+                  (SearchPhrase)).ToListAsync());
+
         }
 
         // GET: Blogs/Details/5
