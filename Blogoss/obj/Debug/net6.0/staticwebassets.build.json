@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "UWPzZF1YaqaU2fRPpEAhnel+l8XFXyddW8AaPtMpa4M=",
+  "Hash": "S4w28rTQ0qbEwiCxBKXmdvN60/jzUDF4QRaKH3yAuFQ=",
   "Source": "Blogoss",
   "BasePath": "_content/Blogoss",
   "Mode": "Default",
@@ -1069,6 +1069,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\ashraf\\Documents\\GitHub\\Blogosss\\Blogoss\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Blogoss.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\ashraf\\Documents\\GitHub\\Blogosss\\Blogoss\\wwwroot\\blogosssLogo.png",
+      "SourceId": "Blogoss",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ashraf\\Documents\\GitHub\\Blogosss\\Blogoss\\wwwroot\\",
+      "BasePath": "_content/Blogoss",
+      "RelativePath": "blogosssLogo.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\blogosssLogo.png"
     },
     {
       "Identity": "C:\\Users\\ashraf\\Documents\\GitHub\\Blogosss\\Blogoss\\wwwroot\\css\\site.css",

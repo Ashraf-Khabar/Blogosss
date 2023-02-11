@@ -8,6 +8,17 @@ a.navbar-brand {
   color:cadetblue;
 }
 
+a.navbar-brand.Nav-btn {
+        background-color: deeppink;
+        border-radius: 50px;
+        color: white;
+        padding: 10px 20px;
+}
+
+.nav-item {
+    margin: 10px;
+}
+
 a {
   color: #0077cc;
 }

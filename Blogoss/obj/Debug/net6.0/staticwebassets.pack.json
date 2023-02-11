@@ -5,6 +5,10 @@
       "PackagePath": "staticwebassets\\Blogoss.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\ashraf\\Documents\\GitHub\\Blogosss\\Blogoss\\wwwroot\\blogosssLogo.png",
+      "PackagePath": "staticwebassets\\blogosssLogo.png"
+    },
+    {
       "Id": "C:\\Users\\ashraf\\Documents\\GitHub\\Blogosss\\Blogoss\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },

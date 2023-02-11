@@ -9,6 +9,17 @@ a.navbar-brand[b-nro1ae4dge] {
   color:cadetblue;
 }
 
+a.navbar-brand.Nav-btn[b-nro1ae4dge] {
+        background-color: deeppink;
+        border-radius: 50px;
+        color: white;
+        padding: 10px 20px;
+}
+
+.nav-item[b-nro1ae4dge] {
+    margin: 10px;
+}
+
 a[b-nro1ae4dge] {
   color: #0077cc;
 }
