@@ -176,6 +176,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/ashraf/Documents/GitHub/Blogosss/Blogoss/Views/AppRoles/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwUm9sZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/ashraf/Documents/GitHub/Blogosss/Blogoss/Views/Blogs/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvZ3NcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
