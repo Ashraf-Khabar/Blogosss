@@ -11,5 +11,6 @@ namespace Blogoss.Data
         {
         }
         public DbSet<Blogoss.Models.Blog> Blog { get; set; }
+        public DbSet<ApplicationUser> applicationUsers { get; set; }
     }
 }
